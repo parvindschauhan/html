@@ -1,3 +1,24 @@
-p {
-    border: 2px solid black;
+.box{
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
 }
+.box{
+    background-color:aquamarine;
+    border-radius: 5px;
+    margin: 2px;
+    padding:10px;
+}
+.box3{
+    background-color: blanchedalmond;
+    align-self: center;
+    flex: 1 1 auto;
+}
+.box{
+    background-color: aquamarine;
+    align-self: center;
+    flex: 1 1 auto;
+
+}
+  
