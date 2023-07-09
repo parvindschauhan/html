@@ -58,3 +58,5 @@ Certainly! Here are some additional notes/cheat sheets that you can print on the
    - `grid-template-rows` defines the rows of the grid.
    - `grid-gap` sets the gap between grid items.
    - `grid-column` and `grid-row` position grid items within the grid.
+
+These cheat sheets cover some of the essential aspects of HTML and CSS. Printing them on the other side of the semantic HTML cheat sheet will provide you with comprehensive references for your HTML journey.
